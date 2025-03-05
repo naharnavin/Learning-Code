@@ -1,6 +1,11 @@
 # Overview -  This script is to automate reloading of QT app when we make any changes in the python code file. This will
 # reduce the overhead of restarting application again and again written by Nahar
 
+
+# // Please note user with caution as this script may consume continuos system ram resources
+
+
+
 import sys
 import os
 import subprocess
